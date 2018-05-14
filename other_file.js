@@ -1,2 +1,2 @@
-var index=require("./index.js")
-console.log(index.name)
+var a=require("./index.js")
+console.log(a.name)
